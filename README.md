@@ -231,8 +231,11 @@ Your custom **SkynetOS.iso** is ready in **Desktop/SkynetOS/SkynetOS.iso**
 2. Launch terminal and test packages
    
    ![os3](screenshots/os3.png)
+
    ![os4](screenshots/os4.png)
+   
    ![os5](screenshots/os5.png)
+   
    ![os6](screenshots/os6.png)
 
 ## Python Development
