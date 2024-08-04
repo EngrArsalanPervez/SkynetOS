@@ -251,5 +251,6 @@ Your custom **SkynetOS.iso** is ready in **Desktop/SkynetOS/SkynetOS.iso**
    ```bash
    cd /usr/local/src/main.py
    ```
+Project Implemented on [Academic Master](https://academic-master.com/)
 
 ## Happy Coding :)
